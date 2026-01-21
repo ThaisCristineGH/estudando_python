@@ -1,4 +1,4 @@
-# 🐍 Lógica de Programação com Python
+# 🐍 Python
 Bem-vindo(a) ao meu repositório de estudos em Python! 🚀
 
 Acredito que a lógica de programação é a base para soluções eficientes em Ciência de Dados. Por isso, concentro meus estudos em Python na construção de algoritmos bem estruturados, na manipulação de dados e na resolução de problemas por meio de raciocínio lógico e análise estruturada.
